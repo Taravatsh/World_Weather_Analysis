@@ -53,6 +53,6 @@ Additionally, a marker layer map with a pop-up marker for each city was created 
 ![Travel map with pop up markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
-## Summaryu
+## Summary
 
 In conclusion, the project was successfully completed by practicing the required statistical and visualization skills with the use of Python CitiPy module, Pandas library, Jupyter notebook, APIs, JSON Traversals and Gmaps platforms for retrieving the required weather data. Thus, helping PlanMyTrip to achieve their goal by implementing additional features to their application. 
