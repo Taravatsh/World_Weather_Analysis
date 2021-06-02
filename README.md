@@ -31,7 +31,7 @@ In this part of the project, 2,000 random set of latitudes and longitudes were g
 
 The retrieved data was then added to a new DataFrame as shown in the figure below and exported as a CSV file.
 
-![City Data DataFrame](Resources/City_data_DataFrame.png)
+![City Data DataFrame](Resources/City_Data_DataFrame.png)
 
 
 ### Vacation Search
@@ -55,4 +55,4 @@ Additionally, a marker layer map with a pop-up marker for each city was created 
 
 ## Summary
 
-In conclusion, the project was successfully completed by practicing the required statistical and visualization skills with the use of Python CitiPy module, Pandas library, Jupyter notebook, APIs, JSON Traversals and Gmaps platforms for retrieving the required weather data. Thus, helping PlanMyTrip to achieve their goal by implementing additional features to their application. 
+            In conclusion, the project was successfully completed by practicing the required statistical and visualization skills with the use of Python CitiPy module, Pandas library, Jupyter notebook, APIs, JSON Traversals and Gmaps platforms for retrieving the required weather data. Thus, helping PlanMyTrip to achieve their goal by implementing additional features to their application. 
