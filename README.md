@@ -31,7 +31,7 @@ In this part of the project, 2,000 random set of latitudes and longitudes were g
 
 The retrieved data was then added to a new DataFrame as shown in the figure below and exported as a CSV file.
 
-![City Data DataFrame](Resources/City_Data_DataFrame.png)
+![City Data DataFrame](Resources/City_data_DataFrame.png)
 
 
 ### Vacation Search
